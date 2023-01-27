@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">My Core Team</string>
+    <string name="name">Nama Core Team</string>
+    <string name="position">posisi</string>
+    <string name="major">Jurusan</string>
+    <string name="share">share</string>
+
+    <string-array name="name">
+        <item>Kholil Haq Alim Hakim</item>
+        <item>Dwi Gusna</item>
+        <item>Muh Fadhil Hisyam</item>
+        <item>Muhammad Nadir Nawi</item>
+        <item>Agil Fikriawan</item>
+        <item>Muhammad Zulham Alfarizi</item>
+        <item>Muhammad Rafsanjani</item>
+        <item>Andi Illa Erviani Nensi</item>
+        <item>Hudzaifah Karepesina</item>
+        <item>Ikhsan Qadri</item>
+        <item>Muh. Akmal Jaya</item>
+        <item>Rafika Hutami Putri</item>
+    </string-array>
+
+    <string-array name="position">
+        <item>Lead GDSC UNM</item>
+        <item>Machine Learning Manager</item>
+        <item>Mobile Development Manager</item>
+        <item>Event Organizer</item>
+        <item>Backend Manager</item>
+        <item>Frontend Manager</item>
+        <item>Cloud Manager</item>
+        <item>Data Science Manager</item>
+        <item>Public Relation</item>
+        <item>UI/UX Designer</item>
+        <item>Media and Creative</item>
+        <item>Graphic Designer</item>
+    </string-array>
+
+    <string-array name="major">
+        <item>Pendidikan Teknik Informatika dan Komputer</item>
+        <item>Pendidikan Teknik Informatika dan Komputer</item>
+        <item>Pendidikan Teknik Informatika dan Komputer</item>
+        <item>Pendidikan Teknik Informatika dan Komputer</item>
+        <item>Pendidikan Teknik Informatika dan Komputer</item>
+        <item>Bisnis Digital</item>
+        <item>Teknik Elekronika</item>
+        <item>Matematika</item>
+        <item>Pendidikan Bahasa Arab</item>
+        <item>Pendidikan Teknik Informatika dan Komputer</item>
+        <item>Pendidikan Teknik Informatika dan Komputer</item>
+        <item>Pendidikan Teknik Informatika dan Komputer</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+        <item>@drawable/user11</item>
+        <item>@drawable/user12</item>
+    </string-array>
+
+</resources>
